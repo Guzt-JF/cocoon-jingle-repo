@@ -22,12 +22,12 @@ jingles are available and where to find them.
   "name": "My Jingle Pack",
   "entries": [
     {
-      "game": "Super Mario Bros",
-      "file": "jingles/Super Mario Bros.mp3"
+      "game": "Super Fartio Throws",
+      "file": "jingles/superfartiothrows.mp3"
     },
     {
-      "game": "The Legend of Zelda",
-      "file": "jingles/The Legend of Zelda.ogg"
+      "game": "The Legend of Velma",
+      "file": "jingles/The Legend of Velma.ogg"
     }
   ]
 }
