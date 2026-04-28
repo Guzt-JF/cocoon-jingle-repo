@@ -2,12 +2,20 @@
   "name": "Example Jingle Pack",
   "entries": [
     {
-      "game": "Example Game 1",
-      "file": "jingles/example-game-1.mp3"
+      "game": "Metal Gear Solid - Peace Walker",
+      "file": "jingles/psp/peace_walker.mp3"
     },
     {
-      "game": "Example Game 2",
-      "file": "jingles/example-game-2.mp3"
+      "game": "God of War - Ghost of Sparta",
+      "file": "jingles/psp/ghost_of_sparta.mp3.mp3"
+    },
+    {
+      "game": "Little Big Planet",
+      "file": "jingles/psp/lbp.mp3"
+    },
+    {
+      "game": "Pokemon - Black Version 2",
+      "file": "jingles/ds/bw2.mp3",
     }
   ]
 }
